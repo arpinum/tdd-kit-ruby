@@ -5,6 +5,7 @@ AllCops:
     - '**/*.gemspec'
   Exclude:
     - 'bin/*'
+    - 'vendor/*'
 Documentation:
   Enabled: false
 
