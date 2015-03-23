@@ -1,4 +1,4 @@
-# TDD Kit - Ruby BDD
+# TDD Kit - Ruby BDD [![Travis status]](https://travis-ci.org/arpinum/tdd-kit-ruby-bdd)
 
 ## Initialization
 
@@ -36,3 +36,4 @@ You should have received a copy of the GNU General Public License along with **T
 [rubocop]: https://github.com/bbatsov/rubocop
 [SimpleCov]: https://github.com/colszowka/simplecov
 [mocha]: https://github.com/freerange/mocha
+[Travis status]: https://travis-ci.org/arpinum/tdd-kit-ruby-bdd.png?branch=master
