@@ -1,4 +1,4 @@
-# TDD Kit - Ruby BDD [![Travis status]](https://travis-ci.org/arpinum/tdd-kit-ruby-bdd)
+# TDD Kit - Ruby [![Travis status]](https://travis-ci.org/arpinum/tdd-kit-ruby)
 
 ## Initialization
 
@@ -31,7 +31,7 @@ Copyright (C) 2015, Arpinum
 You should have received a copy of the GNU General Public License along with **TDD Kit**.  If not, see [http://www.gnu.org/licenses/lgpl.html].
 
 
-[Travis status]: https://travis-ci.org/arpinum/tdd-kit-ruby-bdd.png?branch=master
+[Travis status]: https://travis-ci.org/arpinum/tdd-kit-ruby.png?branch=master
 [minitest expectations]: http://docs.seattlerb.org/minitest/Minitest/Expectations.html
 [rubocop]: https://github.com/bbatsov/rubocop
 [SimpleCov]: https://github.com/colszowka/simplecov
