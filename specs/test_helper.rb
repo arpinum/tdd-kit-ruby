@@ -9,6 +9,6 @@ Minitest::Reporters.use! [Minitest::Reporters::SpecReporter.new]
 require 'minitest/unit'
 require 'mocha/mini_test'
 
-require_relative '../lib/ruby_xunit'
+require_relative '../lib/ruby'
 
-include RubyXunit
+include Ruby

@@ -15,10 +15,10 @@
 
 ## Libraries documentation
 
-* Assertion api: [minitest expectations]
-* Linter: [rubocop]
+* Assertion api: [Minitest expectations]
+* Linter: [Rubocop]
 * Cover: [SimpleCov]
-* Mock api: [mocha]
+* Mock api: [Mocha]
 
 ## License
 
@@ -32,8 +32,8 @@ You should have received a copy of the GNU General Public License along with **T
 
 
 [Travis status]: https://travis-ci.org/arpinum/tdd-kit-ruby.png?branch=master
-[minitest expectations]: http://docs.seattlerb.org/minitest/Minitest/Expectations.html
-[rubocop]: https://github.com/bbatsov/rubocop
+[Minitest expectations]: http://docs.seattlerb.org/minitest/Minitest/Expectations.html
+[Rubocop]: https://github.com/bbatsov/rubocop
 [SimpleCov]: https://github.com/colszowka/simplecov
-[mocha]: https://github.com/freerange/mocha
+[Mocha]: https://github.com/freerange/mocha
 [http://www.gnu.org/licenses/lgpl.html]: http://www.gnu.org/licenses/lgpl.html

@@ -1,4 +1,4 @@
-module RubyXunit
+module Ruby
   class Fizzbuzz
     def elements
       (1..100).map(&method(:value_of))
