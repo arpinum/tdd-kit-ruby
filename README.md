@@ -24,7 +24,7 @@
 
 [MIT](LICENSE)
 
-
+[Travis status]: https://travis-ci.org/arpinum/tdd-kit-ruby.png?branch=master
 [Minitest expectations]: http://docs.seattlerb.org/minitest/Minitest/Expectations.html
 [Rubocop]: https://github.com/bbatsov/rubocop
 [SimpleCov]: https://github.com/colszowka/simplecov
