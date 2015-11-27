@@ -2,7 +2,7 @@ require 'rake/testtask'
 require 'rubocop/rake_task'
 
 Rake::TestTask.new do |task|
-  task.pattern = 'specs/**/*_test.rb'
+  task.pattern = 'lib/**/*_test.rb'
 end
 
 RuboCop::RakeTask.new(:rubocop)
