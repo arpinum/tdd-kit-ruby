@@ -4,8 +4,8 @@ AllCops:
     - '**/Gemfile'
     - '**/*.gemspec'
   Exclude:
-    - 'bin/*'
-    - 'vendor/*'
+    - 'bin/**/*'
+    - 'vendor/**/*'
 Documentation:
   Enabled: false
 
