@@ -2,7 +2,7 @@
 
 ## Initialization
 
-    rvm install 2.3.1
+    rvm install 2.3.3
     bundle install
 
 ## Run unit tests

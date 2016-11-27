@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.3.1'
+ruby '2.3.3'
 
 gem 'minitest', '5.9.1'
 gem 'minitest-reporters', '1.1.11'
